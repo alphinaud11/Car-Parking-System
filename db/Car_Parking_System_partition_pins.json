@@ -1,0 +1,189 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "greenLED",
+					"strict" : false
+				},
+				{
+					"name" : "redLED",
+					"strict" : false
+				},
+				{
+					"name" : "buzzer",
+					"strict" : false
+				},
+				{
+					"name" : "servo",
+					"strict" : false
+				},
+				{
+					"name" : "countdownLeft[0]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownLeft[1]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownLeft[2]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownLeft[3]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownLeft[4]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownLeft[5]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownLeft[6]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownRight[0]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownRight[1]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownRight[2]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownRight[3]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownRight[4]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownRight[5]",
+					"strict" : false
+				},
+				{
+					"name" : "countdownRight[6]",
+					"strict" : false
+				},
+				{
+					"name" : "leftDisplay[0]",
+					"strict" : false
+				},
+				{
+					"name" : "leftDisplay[1]",
+					"strict" : false
+				},
+				{
+					"name" : "leftDisplay[2]",
+					"strict" : false
+				},
+				{
+					"name" : "leftDisplay[3]",
+					"strict" : false
+				},
+				{
+					"name" : "leftDisplay[4]",
+					"strict" : false
+				},
+				{
+					"name" : "leftDisplay[6]",
+					"strict" : false
+				},
+				{
+					"name" : "rightDisplay[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rightDisplay[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rightDisplay[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rightDisplay[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rightDisplay[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rightDisplay[5]",
+					"strict" : false
+				},
+				{
+					"name" : "rightDisplay[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "backSensor",
+					"strict" : false
+				},
+				{
+					"name" : "flameSensor",
+					"strict" : false
+				},
+				{
+					"name" : "password[1]",
+					"strict" : false
+				},
+				{
+					"name" : "password[3]",
+					"strict" : false
+				},
+				{
+					"name" : "password[0]",
+					"strict" : false
+				},
+				{
+					"name" : "password[2]",
+					"strict" : false
+				},
+				{
+					"name" : "password[5]",
+					"strict" : false
+				},
+				{
+					"name" : "password[7]",
+					"strict" : false
+				},
+				{
+					"name" : "password[4]",
+					"strict" : false
+				},
+				{
+					"name" : "password[6]",
+					"strict" : false
+				},
+				{
+					"name" : "password[9]",
+					"strict" : false
+				},
+				{
+					"name" : "password[8]",
+					"strict" : false
+				},
+				{
+					"name" : "frontSensor",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+
+State Machine - |Car_Parking_System|currentState
+Name currentState.EMERGENCY currentState.STOP currentState.RIGHT_PASS currentState.WRONG_PASS currentState.WAIT_PASSWORD currentState.IDLE 
+currentState.IDLE 0 0 0 0 0 0 
+currentState.WAIT_PASSWORD 0 0 0 0 1 1 
+currentState.WRONG_PASS 0 0 0 1 0 1 
+currentState.RIGHT_PASS 0 0 1 0 0 1 
+currentState.STOP 0 1 0 0 0 1 
+currentState.EMERGENCY 1 0 0 0 0 1 

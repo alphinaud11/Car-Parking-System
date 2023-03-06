@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -4.916
+TNS   : -231.459
+
+Type  : Slow 1200mV 85C Model Setup 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : -1.503
+TNS   : -18.458
+
+Type  : Slow 1200mV 85C Model Setup 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : -1.479
+TNS   : -6.443
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : 0.886
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -146.106
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : -1.403
+TNS   : -23.851
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : -1.403
+TNS   : -7.015
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -4.484
+TNS   : -201.388
+
+Type  : Slow 1200mV 0C Model Setup 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : -1.303
+TNS   : -15.556
+
+Type  : Slow 1200mV 0C Model Setup 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : -1.266
+TNS   : -5.412
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : 0.818
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -146.106
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : -1.403
+TNS   : -23.851
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : -1.403
+TNS   : -7.015
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -1.633
+TNS   : -38.794
+
+Type  : Fast 1200mV 0C Model Setup 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : -0.098
+TNS   : -0.285
+
+Type  : Fast 1200mV 0C Model Setup 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : 0.014
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.152
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -108.597
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_generator_2Hz:clk_generator_2Hz0|clk_signal'
+Slack : -1.000
+TNS   : -17.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_generator_1Hz:clk_generator_1Hz0|clk_signal'
+Slack : -1.000
+TNS   : -5.000
+
+------------------------------------------------------------
