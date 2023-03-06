@@ -1,4 +1,4 @@
-# Car-Parking-System
+# Car Parking System
 The source code for a car parking system which automates the boom barrier of the homeowners' parking garage and includes fire detection support. Code is written in VHDL and implemented on Altera DE10-Lite FPGA.
 
 ## System Description
