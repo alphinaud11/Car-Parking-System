@@ -32,10 +32,10 @@ A green LED blinks when the password entered is correct. A red LED blinks when t
 Used to display password countdown and system messages.
 
 System messages :-
-* **EN** : means a driver can enter password.<br/>
-* **EE** : means password is incorrect.<br/>
-* **GO** : means boom barrier is open and the car can pass.<br/>
-* **SP** : means an incoming car should stop and wait till the car in front of it passes and the boom barrier closes again.<br/>
+* **EN**: means a driver can enter password.<br/>
+* **EE**: means password is incorrect.<br/>
+* **GO**: means boom barrier is open and the car can pass.<br/>
+* **SP**: means an incoming car should stop and wait till the car in front of it passes and the boom barrier closes again.<br/>
 
 ## Note
 This is a university (GUC) course project. Course name is (CSEN 605 : Digital System Design).
